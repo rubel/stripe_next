@@ -9,15 +9,15 @@ const inter = Inter({ subsets: ['latin'] });
 
 export default function Home() {
   const item_1 = {
-    id: 'prod_NHOm60B5xBMHVG',
+    id: 'price_1MWpyVJ3g5muo4H8KhPeAeYa',
     title: '30 days plan',
   };
   const item_2 = {
-    id: 'prod_NHOlOs3wss24W7',
+    id: 'price_1MWpxgJ3g5muo4H8PTx0JSMf',
     title: '14 days plan',
   };
   const item_3 = {
-    id: 'prod_NHOjzI8HGoei8p',
+    id: 'price_1MWpwEJ3g5muo4H8nd7VsPpv',
     title: '7 days plan',
   };
   var items = [item_1, item_2, item_3];
